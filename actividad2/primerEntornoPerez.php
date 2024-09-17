@@ -1,11 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>primerEntorno</title>
 </head>
 <body>
     <h1>HOLAAA</h1>
+    <?
+        phpinfo();
+    ?>
 </body>
 </html>
