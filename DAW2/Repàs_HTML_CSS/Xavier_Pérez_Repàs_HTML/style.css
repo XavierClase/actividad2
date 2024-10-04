@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    font-size: 3rem;
+}
+nav {
+    padding-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+nav a {
+    font-size: 1.2rem;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 100px;
+}
+section {
+    width: 70%;
+}
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+img {
+    width: 800px;
+}
+iframe {
+    width: 800px;
+}

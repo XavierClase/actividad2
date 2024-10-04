@@ -6,9 +6,6 @@
     <title>primerEntorno</title>
 </head>
 <body>
-    <h1>HOLAAA</h1>
-    <?
-        phpinfo();
-    ?>
+    <h1>Primer Entorno</h1>
 </body>
 </html>

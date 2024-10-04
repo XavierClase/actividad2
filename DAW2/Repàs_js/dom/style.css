@@ -1,0 +1,34 @@
+body { 
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+.contenedor {
+    width: 620px;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+}
+
+div {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+}
+
+.primo {
+    background-color: rgb(252, 44, 44);
+}
+
+.par {
+    background-color: rgb(2, 196, 77);
+}
+
+.impar {
+    background-color: rgb(212, 212, 58);
+}
